@@ -65,6 +65,7 @@ const Product={
 
 };
 console.group(Product);
+console.log(typeof Product.productName);
 //string concat
 123+"123";//will just concat 123123 (gotta write on console for output)
 
